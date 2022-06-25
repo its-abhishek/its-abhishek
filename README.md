@@ -21,7 +21,7 @@ Shoot me an email <a href = "mailto:sskworld9742@gmail.com">here</a> for officia
  <a href = "https://www.linkedin.com/in/abhishek-honnapure-547636232/"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Linkedin.png" height = 40 width = 40/></a>
  <a href = "https://www.facebook.com/abhi.honnapure/"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Facebook.png" height = 40 width = 40/></a>
  <a href = "https://www.instagram.com/_its__abhi__7/"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Instagram.png" height = 40 width = 40/></a>
- <a href = "https://t.me/sarthakskumar"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Telegram.png" height = 40 width = 40/></a>
+ <a href = "https://t.me/Honnpure"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Telegram.png" height = 40 width = 40/></a>
  <a href = "https://discord.com/channels/it's_abhi_07/"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Discord.png" height = 40 width = 40/></a>
  <a href = "https://twitter.com/honnapure"><img src = "https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Social/Twitter.png" height = 40 width = 40/></a>
 </p>
