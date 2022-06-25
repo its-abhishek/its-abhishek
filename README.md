@@ -29,7 +29,7 @@ Shoot me an email <a href = "mailto:sskworld9742@gmail.com">here</a> for officia
 ## ⚡ Languages, Tools and Technologies
 
 <p align="justify">
- <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/C.png" alt="c" height = 37, width = 37/>
+ <img src="https://github.com/its-abhishek/its-abhishek/blob/ad71932248eef9a1fa6441312ef4caf9787c7ee7/c.jpg" alt="c" height = 37, width = 37/>
  <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Python.png" alt="python" height = 37, width = 37/>
  <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Html5.png" alt="html-5" height = 37, width = 37/>
  <img src="https://github.com/SarthakSKumar/SarthakSKumar/blob/main/Assets/Tech%20Stack/Css.png" alt="css" height = 37, width = 37/>
