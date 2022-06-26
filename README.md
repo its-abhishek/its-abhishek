@@ -1,15 +1,20 @@
 # Hey ✋, I am <a href="https://www.linkedin.com/in/abhishek-honnapure-547636232/" target="_blank">Abhishek</a>. Welcome to my Profile✌️
 
+<div id="header" align="center">
+<img src="https://github.com/its-abhishek/its-abhishek/blob/026c050a3d7c23a83eefb77e9692b9dd2f726dc9/giphy.gif" width="20%">
+</div>
+
 <b>I'm pursuing B.Tech in Computer Science from [PES University, Bangalore](https://www.pes.edu).</b><br>
 I am a self-learner and a blockchain🔗 enthusiast. I'm intrested in reaching people🤝 in varies platforms and doing projects👨‍💻 using varies Technology🤖<br>
 
-<img align='right' src="https://user-images.githubusercontent.com/64855541/133657615-ccb22336-f4db-408e-bc30-af7ff09608e7.png" width="280">
+<img align='right' src="https://github.com/its-abhishek/its-abhishek/blob/026c050a3d7c23a83eefb77e9692b9dd2f726dc9/giphy%20(1).gif" width="450">
 
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Js
-- 💞️ I’m looking to collaborate on projects<br><br>
+- 💞️ I’m looking to collaborate on projects
+- 💫 In my free time I solve problem from GeeksforGeeks and read tech article<br><br>
 
-** ⬇️ Contact me **<br>
+## ⬇️ Contact me
 For any further discussion email me <a href = "mailto:abhihonnapure@gmail.com">here</a> for official discussions. <br>
 <p align = "justify">
  <a href = "https://www.linkedin.com/in/abhishek-honnapure-547636232/"><img src = "https://github.com/its-abhishek/its-abhishek/blob/8a327caecc79bfef24ef902c4df3493dd4c32b8e/linkdin.png" height = 40 width = 40/></a>
@@ -35,9 +40,9 @@ For any further discussion email me <a href = "mailto:abhihonnapure@gmail.com">h
 
 <hr>
 
-<h4>## 📊 Coding Stats</h4>
+## 📊 Coding Stats
 
- <details><summary><b><h6>📉Github Stats</h6></summary>
+ <details><summary><b><h4>📉Github Stats</h4></summary>
 <p align = "center">
 <img width = 95% src="https://activity-graph.herokuapp.com/graph?username=its-abhishek&theme=react-dark" />
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-abhishek&langs_count=6&layout=compact&theme=algolia" />
