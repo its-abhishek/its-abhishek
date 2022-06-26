@@ -9,7 +9,7 @@ I am a self-learner and a blockchain🔗 enthusiast. I'm intrested in reaching p
 - 🌱 I’m currently learning Js
 - 💞️ I’m looking to collaborate on projects<br><br>
 
-** ⬇️ Contact me **
+** ⬇️ Contact me **<br>
 For any further discussion email me <a href = "mailto:abhihonnapure@gmail.com">here</a> for official discussions. <br>
 <p align = "justify">
  <a href = "https://www.linkedin.com/in/abhishek-honnapure-547636232/"><img src = "https://github.com/its-abhishek/its-abhishek/blob/8a327caecc79bfef24ef902c4df3493dd4c32b8e/linkdin.png" height = 40 width = 40/></a>
