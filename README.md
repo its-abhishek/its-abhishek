@@ -6,27 +6,34 @@
 
 <b>I'm pursuing B.Tech in Computer Science from [PES University, Bangalore](https://www.pes.edu).</b><br>
 I am a self-learner and a blockchain🔗 enthusiast. I'm intrested in reaching people🤝 in varies platforms and doing projects👨‍💻 using varies Technology🤖<br>
+<div id="header" align="center">
+<img src="https://github.com/its-abhishek/its-abhishek/blob/026c050a3d7c23a83eefb77e9692b9dd2f726dc9/giphy%20(1).gif" width="350">
+</div>
+<p></p>
 
-<img align='right' src="https://github.com/its-abhishek/its-abhishek/blob/026c050a3d7c23a83eefb77e9692b9dd2f726dc9/giphy%20(1).gif" width="450">
 
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Js
-- 💞️ I’m looking to collaborate on projects
+## About me <br>
+
+
+- 👀 I’m interested in Coding<br>
+- 🌱 I’m currently learning Js<br>
+- 💞️ I’m looking to collaborate on projects<br>
 - 💫 In my free time I solve problem from GeeksforGeeks and read tech article<br><br>
 
 ## ⬇️ Contact me
-For any further discussion email me <a href = "mailto:abhihonnapure@gmail.com">here</a> for official discussions. <br>
+
+<h5>For any further discussion email me <a href = "mailto:abhihonnapure@gmail.com">here</a> for official discussions.<h5>
 <p align = "justify">
- <a href = "https://www.linkedin.com/in/abhishek-honnapure-547636232/"><img src = "https://github.com/its-abhishek/its-abhishek/blob/8a327caecc79bfef24ef902c4df3493dd4c32b8e/linkdin.png" height = 40 width = 40/></a>
- <a href = "https://www.facebook.com/abhi.honnapure/"><img src = "https://github.com/its-abhishek/its-abhishek/blob/8a327caecc79bfef24ef902c4df3493dd4c32b8e/facebook.jpg" height = 40 width = 40/></a>
  <a href = "https://www.instagram.com/_its__abhi__7/"><img src = "https://github.com/its-abhishek/its-abhishek/blob/8a327caecc79bfef24ef902c4df3493dd4c32b8e/insta.jpg"height = 40 width = 40/></a>
- <a href = "https://t.me/Honnpure"><img src = "https://github.com/its-abhishek/its-abhishek/blob/8a327caecc79bfef24ef902c4df3493dd4c32b8e/teligram.jpg" height = 40 width = 40/></a>
- <a href = "https://discord.com/channels/it's_abhi_07/"><img src = "https://github.com/its-abhishek/its-abhishek/blob/8a327caecc79bfef24ef902c4df3493dd4c32b8e/discord.jpg" height = 40 width = 40/></a>
  <a href = "https://twitter.com/honnapure"><img src = "https://github.com/its-abhishek/its-abhishek/blob/8a327caecc79bfef24ef902c4df3493dd4c32b8e/twitter.jpg" height = 40 width = 40/></a>
+ <a href = "https://t.me/Honnpure"><img src = "https://github.com/its-abhishek/its-abhishek/blob/8a327caecc79bfef24ef902c4df3493dd4c32b8e/teligram.jpg" height = 40 width = 40/></a>
+ <a href = "https://www.linkedin.com/in/abhishek-honnapure-547636232/"><img src = "https://github.com/its-abhishek/its-abhishek/blob/8a327caecc79bfef24ef902c4df3493dd4c32b8e/linkdin.png" height = 40 width = 40/></a>
+ <a href = "https://discord.com/channels/it's_abhi_07/"><img src = "https://github.com/its-abhishek/its-abhishek/blob/8a327caecc79bfef24ef902c4df3493dd4c32b8e/discord.jpg" height = 40 width = 40/></a>
+ <a href = "https://www.facebook.com/abhi.honnapure/"><img src = "https://github.com/its-abhishek/its-abhishek/blob/8a327caecc79bfef24ef902c4df3493dd4c32b8e/facebook.jpg" height = 40 width = 40/></a>
 </p>
-
-**✨Languages and Tools🪄**
-
+ 
+ ## ✨Languages and Tools🪄
+ 
 <p align="justify">
  <img src="https://github.com/its-abhishek/its-abhishek/blob/ad71932248eef9a1fa6441312ef4caf9787c7ee7/c.jpg" alt="c" height = 37, width = 37/>
  <img src="https://github.com/its-abhishek/its-abhishek/blob/a8b814dfc43b528106245706c67a471e0fd7e326/python.jpg" alt="python" height = 37, width = 37/>
@@ -42,13 +49,12 @@ For any further discussion email me <a href = "mailto:abhihonnapure@gmail.com">h
 
 ## 📊 Coding Stats
 
- <details><summary><b><h4>📉Github Stats</h4></summary>
+<b><h4>📉Github Stats</h4>
 <p align = "center">
 <img width = 95% src="https://activity-graph.herokuapp.com/graph?username=its-abhishek&theme=react-dark" />
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-abhishek&langs_count=6&layout=compact&theme=algolia" />
 <img width="55.79%" src="https://github-readme-stats.vercel.app/api?username=its-abhishek&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=algolia"/>
 </p>
- </details>
  
 
 <hr>
