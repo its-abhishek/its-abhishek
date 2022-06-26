@@ -47,7 +47,7 @@ I am a self-learner and a blockchain🔗 enthusiast. I'm intrested in reaching p
 
 <hr>
  
-<details><summary><b><h3>📊 Coding Stats</h3></summary>
+<details><summary><b><h3>💹 Coding Stats</h3></summary>
 <details><summary><b><h4>📉Github Stats</h4></summary>
 <p align = "center">
 <img width = 95% src="https://activity-graph.herokuapp.com/graph?username=its-abhishek&theme=react-dark" />
