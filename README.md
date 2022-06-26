@@ -46,13 +46,15 @@ I am a self-learner and a blockchain🔗 enthusiast. I'm intrested in reaching p
 </p>
 
 <hr>
-<details><summury><b><h3>📊 Coding Stats</h3></summry>
-<b><h4>📉Github Stats</h4>
+ 
+<details><summary><b><h3>📊 Coding Stats</h3></summary>
+<details><summary><b><h4>📉Github Stats</h4></summary>
 <p align = "center">
 <img width = 95% src="https://activity-graph.herokuapp.com/graph?username=its-abhishek&theme=react-dark" />
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-abhishek&langs_count=6&layout=compact&theme=algolia" />
 <img width="55.79%" src="https://github-readme-stats.vercel.app/api?username=its-abhishek&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=algolia"/>
 </p>
+ </details>
  </details>
 
 <hr>
