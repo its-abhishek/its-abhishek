@@ -6,10 +6,9 @@
 
 <b>I'm pursuing B.Tech in Computer Science from [PES University, Bangalore](https://www.pes.edu).</b><br>
 I am a self-learner and a blockchain🔗 enthusiast. I'm intrested in reaching people🤝 in varies platforms and doing projects👨‍💻 using varies Technology🤖<br>
-<div id="header" align="center">
+<div id="header" align="right">
 <img src="https://github.com/its-abhishek/its-abhishek/blob/026c050a3d7c23a83eefb77e9692b9dd2f726dc9/giphy%20(1).gif" width="350">
 </div>
-<p></p>
 
 
 ## About me <br>
