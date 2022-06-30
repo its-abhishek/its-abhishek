@@ -6,19 +6,20 @@
 
 <b>I'm pursuing B.Tech in Computer Science from [PES University, Bangalore](https://www.pes.edu).</b><br>
 I am a self-learner and a blockchain🔗 enthusiast. I'm intrested in reaching people🤝 in varies platforms and doing projects👨‍💻 using varies Technology🤖<br>
-<img align="right" src="https://github.com/its-abhishek/its-abhishek/blob/026c050a3d7c23a83eefb77e9692b9dd2f726dc9/giphy%20(1).gif" width="350">
+<img align="right" src="https://github.com/its-abhishek/its-abhishek/blob/2f65a14544ede2d7f61bbaa79ac81acfebed0482/gif2.gif" width="300">
+<hr>
+<br>
 
-
-## About me
-
+<h3>## About me</h3>
 
 - 👀 I’m interested in Coding<br>
 - 🌱 I’m currently learning Js<br>
 - 💞️ I’m looking to collaborate on projects<br>
 - 💫 In my free time I solve problem from GeeksforGeeks and read tech article<br><br>
 
-## ⬇️ Contact me
-
+<br>
+<h3>## ⬇️ Contact me</h3>
+<hr>
 <h5>For any further discussion email me <a href = "mailto:abhihonnapure@gmail.com">here</a> for official discussions or connect me on social media clicking on these icons.<h5>
 <p align = "justify">
  <a href = "https://www.instagram.com/_its__abhi__7/"><img src = "https://github.com/its-abhishek/its-abhishek/blob/fadc9cad3c594970c7695bbd559165a1ad33da92/instagram%20.png"height = 40 width = 40/></a>
@@ -29,9 +30,10 @@ I am a self-learner and a blockchain🔗 enthusiast. I'm intrested in reaching p
  <a href = "https://www.facebook.com/abhi.honnapure/"><img src = "https://github.com/its-abhishek/its-abhishek/blob/fadc9cad3c594970c7695bbd559165a1ad33da92/facebook.png" height = 40 width = 40/></a>
  <a href = "https://discord.com/channels/it's_abhi_07/"><img src = "https://github.com/its-abhishek/its-abhishek/blob/fadc9cad3c594970c7695bbd559165a1ad33da92/discord.png" height = 40 width = 40/></a>
 </p>
+<br>
  
- ## ✨Languages and Tools🪄
- 
+<h3>## ✨Languages and Tools🪄</h3>
+<hr>
 <p align="justify">
  <img src="https://github.com/its-abhishek/its-abhishek/blob/32bee841333854ef2ede5b88d620e811283b3523/c.png" alt="c" height = 37, width = 37/>
  <img src="https://github.com/its-abhishek/its-abhishek/blob/32bee841333854ef2ede5b88d620e811283b3523/python.png" alt="python" height = 37, width = 37/>
