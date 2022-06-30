@@ -33,14 +33,14 @@ I am a self-learner and a blockchain🔗 enthusiast. I'm intrested in reaching p
  ## ✨Languages and Tools🪄
  
 <p align="justify">
- <img src="https://github.com/its-abhishek/its-abhishek/blob/ad71932248eef9a1fa6441312ef4caf9787c7ee7/c.jpg" alt="c" height = 37, width = 37/>
- <img src="https://github.com/its-abhishek/its-abhishek/blob/a8b814dfc43b528106245706c67a471e0fd7e326/python.jpg" alt="python" height = 37, width = 37/>
- <img src="https://github.com/its-abhishek/its-abhishek/blob/a8b814dfc43b528106245706c67a471e0fd7e326/html.jpg" alt="html-5" height = 37, width = 37/>
- <img src="https://github.com/its-abhishek/its-abhishek/blob/1072e6ac0b9fbe26608bdf4b4e7d695895e50dc3/css.jpg" alt="css" height = 37, width = 37/>
- <img src="https://github.com/its-abhishek/its-abhishek/blob/a8b814dfc43b528106245706c67a471e0fd7e326/vscode.jpg" alt="vs-code" height = 37, width = 37/>
- <img src="https://github.com/its-abhishek/its-abhishek/blob/3772d8846eb9284d82b054e0a248e2059157c500/andriodstudio.jpg" alt="android-studio" height = 36, width = 36/>
- <img src="https://github.com/its-abhishek/its-abhishek/blob/a8b814dfc43b528106245706c67a471e0fd7e326/git.jpg" alt="git" height = 37, width = 37/>
- <img src="https://github.com/its-abhishek/its-abhishek/blob/a8b814dfc43b528106245706c67a471e0fd7e326/github.jpg" alt="github" height = 37, width = 37/>
+ <img src="https://github.com/its-abhishek/its-abhishek/blob/32bee841333854ef2ede5b88d620e811283b3523/c.png" alt="c" height = 37, width = 37/>
+ <img src="https://github.com/its-abhishek/its-abhishek/blob/32bee841333854ef2ede5b88d620e811283b3523/python.png" alt="python" height = 37, width = 37/>
+ <img src="https://github.com/its-abhishek/its-abhishek/blob/32bee841333854ef2ede5b88d620e811283b3523/html-5.png" alt="html-5" height = 37, width = 37/>
+ <img src="https://github.com/its-abhishek/its-abhishek/blob/32bee841333854ef2ede5b88d620e811283b3523/css-3.png" alt="css" height = 37, width = 37/>
+ <img src="https://github.com/its-abhishek/its-abhishek/blob/32bee841333854ef2ede5b88d620e811283b3523/visual-basic.png" alt="vs-code" height = 37, width = 37/>
+ <img src="https://github.com/its-abhishek/its-abhishek/blob/32bee841333854ef2ede5b88d620e811283b3523/androidstudio.png" alt="android-studio" height = 36, width = 36/>
+ <img src="https://github.com/its-abhishek/its-abhishek/blob/32bee841333854ef2ede5b88d620e811283b3523/git.png" alt="git" height = 37, width = 37/>
+ <img src="https://github.com/its-abhishek/its-abhishek/blob/32bee841333854ef2ede5b88d620e811283b3523/github.png" alt="github" height = 37, width = 37/>
 </p>
 
 <hr>
