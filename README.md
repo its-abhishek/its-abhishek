@@ -1,7 +1,7 @@
 # Hey ✋, I am <a href="https://www.linkedin.com/in/abhishek-honnapure-547636232/" target="_blank">Abhishek</a>. Welcome to my Profile✌️
 
 <div id="header" align="center">
-<img src="https://github.com/its-abhishek/its-abhishek/blob/026c050a3d7c23a83eefb77e9692b9dd2f726dc9/giphy.gif" width="20%">
+<img src="https://github.com/its-abhishek/its-abhishek/blob/026c050a3d7c23a83eefb77e9692b9dd2f726dc9/giphy.gif" width="10%">
 </div>
 
 <b>I'm pursuing B.Tech in Computer Science from [PES University, Bangalore](https://www.pes.edu).</b><br>
