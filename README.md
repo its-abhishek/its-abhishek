@@ -22,7 +22,7 @@ I am a self-learner and a blockchain🔗 enthusiast. I'm intrested in reaching p
 <hr>
 <h5>For any further discussion email me <a href = "mailto:abhihonnapure@gmail.com">here</a> for official discussions or connect me on social media clicking on these icons.<h5>
 <p align = "justify">
- <a href = "https://www.instagram.com/_its__abhi__7/"><img src = "https://github.com/its-abhishek/its-abhishek/blob/fadc9cad3c594970c7695bbd559165a1ad33da92/instagram%20.png"height = 40 width = 40/></a>
+ <a target="_blank" href = "https://www.instagram.com/_its__abhi__7/"><img src = "https://github.com/its-abhishek/its-abhishek/blob/fadc9cad3c594970c7695bbd559165a1ad33da92/instagram%20.png"height = 40 width = 40/></a>
  <a href = "https://twitter.com/honnapure"><img src = "https://github.com/its-abhishek/its-abhishek/blob/fadc9cad3c594970c7695bbd559165a1ad33da92/twitter.png" 
  height = 40 width = 40/></a>
  <a href = "https://t.me/Honnpure"><img src = "https://github.com/its-abhishek/its-abhishek/blob/fadc9cad3c594970c7695bbd559165a1ad33da92/telegram.png" height = 40 width = 40/></a>
