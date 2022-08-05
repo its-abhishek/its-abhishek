@@ -44,6 +44,7 @@ I am a self-learner and a blockchain🔗 enthusiast. I'm intrested in reaching p
  <img src="https://github.com/its-abhishek/its-abhishek/blob/32bee841333854ef2ede5b88d620e811283b3523/git.png" alt="git" height = 37, width = 37/>
  <img src="https://github.com/its-abhishek/its-abhishek/blob/32bee841333854ef2ede5b88d620e811283b3523/github.png" alt="github" height = 37, width = 37/>
  <img src="https://github.com/its-abhishek/its-abhishek/blob/c3d255c82c6111d7a28eeafba8879b6edd2e3b04/pycharm.png" alt="pycharm" height = 37, width = 37/>
+ <img src="https://github.com/its-abhishek/its-abhishek/blob/320871dbb6576d4217dd806987f9f33935b88b8f/icons8-canva-100.png" alt="pycharm" height = 43, width = 45/>
 </p>
 
 <hr>
