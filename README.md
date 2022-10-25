@@ -49,6 +49,11 @@ I am a self-learner and a blockchain🔗 enthusiast. I'm intrested in reaching p
 
 <hr>
  
+ <h3>🏆Trophies</h3><br>
+ <img width=900 src="https://github-profile-trophy.vercel.app/?username=its-abhishek&column=7&theme=monokai&no-frame=true"/>
+ 
+ <hr>
+ 
 <details><summary><b><h3>💹 Coding Stats</h3></summary>
 <details><summary><b><h4>📉Github Stats</h4></summary>
 <p align = "center">
