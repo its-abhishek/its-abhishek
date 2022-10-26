@@ -6,7 +6,7 @@
 
 <b>I'm pursuing B.Tech in Computer Science from [PES University, Bangalore](https://www.pes.edu).</b><br>
 I am a self-learner and a blockchain🔗 enthusiast. I'm interested in reaching people🤝 in varies platforms and doing projects👨‍💻 using varies Technology🤖<br>
-<img align="right" src="https://github.com/its-abhishek/its-abhishek/blob/2f65a14544ede2d7f61bbaa79ac81acfebed0482/gif2.gif" width="300">
+<img align="right" src="https://github.com/its-abhishek/its-abhishek/blob/main/gifgs/gif2.gif" width="300">
 <hr>
 <br>
 
@@ -60,7 +60,7 @@ I am a self-learner and a blockchain🔗 enthusiast. I'm interested in reaching 
  
  <hr>
  
-<details><summary><b><h3>💹 Coding Stats</h3></summary>
+<b><h3>💹 Coding Stats</h3><img src="https://wakatime.com/badge/user/efced8e0-2919-4ae4-97b0-d12a51f8068a.svg">
 <details><summary><b><h4>📉Github Stats</h4></summary>
 <p align = "center">
 <img width = 95% src="https://activity-graph.herokuapp.com/graph?username=its-abhishek&theme=react-dark" />
@@ -68,10 +68,12 @@ I am a self-learner and a blockchain🔗 enthusiast. I'm interested in reaching 
 <img width="55.79%" src="https://github-readme-stats.vercel.app/api?username=its-abhishek&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=algolia"/>
 </p>
  </details>
- </details>
- <img src="https://wakatime.com/badge/user/efced8e0-2919-4ae4-97b0-d12a51f8068a.svg">
+ <details><summary><b><h4>📉wakatime status</h4></summary>
+<p align = "center">
  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@its_abhishek/dc1a52ea-4a48-406e-a043-cac31e07c281.svg" height = 300/></a>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=its-abhishek&theme=monokai">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=its-abhishek&theme=monokai">
+</p>
+ </details>
 <hr>
 <div align = "center">
  
