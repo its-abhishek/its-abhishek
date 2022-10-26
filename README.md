@@ -60,7 +60,7 @@ I am a self-learner and a blockchain🔗 enthusiast. I'm interested in reaching 
  
  <hr>
  
-<b><h3>💹 Coding Stats</h3><img src="https://wakatime.com/badge/user/efced8e0-2919-4ae4-97b0-d12a51f8068a.svg">
+<b><h3>📊Coding Stats</h3><img src="https://wakatime.com/badge/user/efced8e0-2919-4ae4-97b0-d12a51f8068a.svg">
 <details><summary><b><h4>📉Github Stats</h4></summary>
 <p align = "center">
 <img width = 95% src="https://activity-graph.herokuapp.com/graph?username=its-abhishek&theme=react-dark" />
@@ -68,7 +68,7 @@ I am a self-learner and a blockchain🔗 enthusiast. I'm interested in reaching 
 <img width="55.79%" src="https://github-readme-stats.vercel.app/api?username=its-abhishek&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=algolia"/>
 </p>
  </details>
- <details><summary><b><h4>📉wakatime status</h4></summary>
+ <details><summary><b><h4>💹wakatime status</h4></summary>
 <p align = "center">
  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@its_abhishek/dc1a52ea-4a48-406e-a043-cac31e07c281.svg" height = 300/></a>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=its-abhishek&theme=monokai">
