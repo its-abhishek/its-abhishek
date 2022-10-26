@@ -62,7 +62,7 @@ I am a self-learner and a blockchain🔗 enthusiast. I'm interested in reaching 
 
 <b><h4>📉Github Stats</h4>
 <p align = "center">
-<img width = 95% src="https://activity-graph.herokuapp.com/graph?username=its-abhishek&theme=rmonokai" />
+<img width = 95% src="https://activity-graph.herokuapp.com/graph?username=its-abhishek&theme=monokai" />
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-abhishek&langs_count=6&layout=compact&theme=monokai" />
 <img width="55.79%" src="https://github-readme-stats.vercel.app/api?username=its-abhishek&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=monokai"/>
 </p>
