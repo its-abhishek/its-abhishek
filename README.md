@@ -1,12 +1,11 @@
 # Hey ✋, I am <a href="https://www.linkedin.com/in/abhishek-honnapure-547636232/" target="_blank">Abhishek</a>. Welcome to my Profile✌️
-
+<img src="https://github.com/its-abhishek/its-abhishek/blob/main/assets/github-header-image%20(1).png">
 <div id="header" align="center">
-<img src="https://github.com/its-abhishek/its-abhishek/blob/026c050a3d7c23a83eefb77e9692b9dd2f726dc9/giphy.gif" width="5%">
 </div>
 
 <b>I'm pursuing B.Tech in Computer Science from [PES University, Bangalore](https://www.pes.edu).</b><br>
 I am a self-learner and a blockchain🔗 enthusiast. I'm interested in reaching people🤝 in varies platforms and doing projects👨‍💻 using varies Technology🤖<br>
-<img align="right" src="https://github.com/its-abhishek/its-abhishek/blob/main/gifgs/gif2.gif" width="300">
+<img align="right" src="https://github.com/its-abhishek/its-abhishek/blob/main/assets/gif2.gif" width="300">
 <hr>
 <br>
 
@@ -60,20 +59,23 @@ I am a self-learner and a blockchain🔗 enthusiast. I'm interested in reaching 
  
  <hr>
  
-<b><h3>📊Coding Stats</h3><img src="https://wakatime.com/badge/user/efced8e0-2919-4ae4-97b0-d12a51f8068a.svg">
-<details><summary><b><h4>📉Github Stats</h4></summary>
+<b><h3>📊Coding Stats</h3>
+
+<b><h4>📉Github Stats</h4>
 <p align = "center">
 <img width = 95% src="https://activity-graph.herokuapp.com/graph?username=its-abhishek&theme=react-dark" />
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-abhishek&langs_count=6&layout=compact&theme=algolia" />
 <img width="55.79%" src="https://github-readme-stats.vercel.app/api?username=its-abhishek&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=algolia"/>
 </p>
- </details>
- <details><summary><b><h4>💹wakatime status</h4></summary>
+
+ <b><h4>📈wakatime status</h4>
+ Coding since Jun 2022<br>
+<img src="https://wakatime.com/badge/user/efced8e0-2919-4ae4-97b0-d12a51f8068a.svg">
 <p align = "center"><span>
  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@its_abhishek/dc1a52ea-4a48-406e-a043-cac31e07c281.svg" height = 300/></a>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=its-abhishek&theme=monokai"></span>
 </p>
- </details>
+
 <hr>
 <div align = "center">
  
