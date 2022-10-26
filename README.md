@@ -1,7 +1,6 @@
-# Hey ✋, I am <a href="https://www.linkedin.com/in/abhishek-honnapure-547636232/" target="_blank">Abhishek</a>. Welcome to my Profile✌️
 <img src="https://github.com/its-abhishek/its-abhishek/blob/main/assets/github-header-image%20(1).png">
-<div id="header" align="center">
-</div>
+
+# Hey ✋, I am <a href="https://www.linkedin.com/in/abhishek-honnapure-547636232/" target="_blank">Abhishek</a>. Welcome to my Profile✌️
 
 <b>I'm pursuing B.Tech in Computer Science from [PES University, Bangalore](https://www.pes.edu).</b><br>
 I am a self-learner and a blockchain🔗 enthusiast. I'm interested in reaching people🤝 in varies platforms and doing projects👨‍💻 using varies Technology🤖<br>
@@ -20,7 +19,7 @@ I am a self-learner and a blockchain🔗 enthusiast. I'm interested in reaching 
 <h3>## ⬇️ Contact me</h3>
 <hr>
 <h5>For any further discussion email me <a href = "mailto:abhihonnapure@gmail.com">here</a> for official discussions or connect me on social media clicking on these icons.<h5>
-<p align = "justify">
+<p align = "center">
  <a href = "https://www.instagram.com/_its__abhi__7/"><img src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
  <a href = "https://twitter.com/honnapure"><img src = "https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" 
 /></a>
@@ -33,7 +32,7 @@ I am a self-learner and a blockchain🔗 enthusiast. I'm interested in reaching 
  
 <h3>## ✨Languages and Tools🪄</h3>
 <hr>
-<p align="justify">
+<p align="center">
  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/>
  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html-5"/>
