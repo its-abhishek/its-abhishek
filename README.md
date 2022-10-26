@@ -72,7 +72,7 @@ I am a self-learner and a blockchain🔗 enthusiast. I'm interested in reaching 
  Coding since Jun 2022<br>
 <img src="https://wakatime.com/badge/user/efced8e0-2919-4ae4-97b0-d12a51f8068a.svg">
 <p>
- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@its_abhishek/dc1a52ea-4a48-406e-a043-cac31e07c281.svg" height = 300/></a>
+ <a href="https://wakatime.com"><img src="https://wakatime.com/share/@its_abhishek/dc1a52ea-4a48-406e-a043-cac31e07c281.svg" height = 270/></a>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=its-abhishek&theme=monokai">
 </p>
 
