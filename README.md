@@ -13,7 +13,7 @@ I am a self-learner and a blockchain🔗 enthusiast. I'm interested in reaching 
 - 👀 I’m interested in Coding<br>
 - 🌱 I’m currently learning Js<br>
 - 💞️ I’m looking to collaborate on projects<br>
-- 💫 In my free time I solve problem from GeeksforGeeks and read tech article<br><br>
+- 💫 In my free time I solve problem from HackerRank and read tech article<br><br>
 
 <br>
 <h3>## ⬇️ Contact me</h3>
