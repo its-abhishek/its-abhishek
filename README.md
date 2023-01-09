@@ -1,4 +1,4 @@
-<img src="https://github.com/its-abhishek/its-abhishek/blob/main/assets/github-header-image%20(1).png">
+<img src="https://github.com/its-abhishek/its-abhishek/blob/8a2e502f56b72ad1af15ff553de6dc6c78dd9f13/assets/Abhishek%20Honnapure.jpg">
 
 # Hey ✋, I am <a href="https://www.linkedin.com/in/abhishek-honnapure-547636232/" target="_blank">Abhishek</a>. Welcome to my Profile✌️
 
