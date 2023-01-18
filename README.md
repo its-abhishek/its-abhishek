@@ -62,7 +62,6 @@ I am a self-learner and a blockchain🔗 enthusiast. I'm interested in reaching 
 
 <b><h4>📉Github Stats</h4>
 <p align = "center">
-<img width = 95% src="https://activity-graph.herokuapp.com/graph?username=its-abhishek&theme=monokai" />
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-abhishek&langs_count=6&layout=compact&theme=monokai" />
 <img width="55.79%" src="https://github-readme-stats.vercel.app/api?username=its-abhishek&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=monokai"/>
 </p>
@@ -73,7 +72,7 @@ Coding since Jun 2022 :  &nbsp
 <img src="https://wakatime.com/badge/user/efced8e0-2919-4ae4-97b0-d12a51f8068a.svg">
  </p>
 <p>
- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@its_abhishek/dc1a52ea-4a48-406e-a043-cac31e07c281.svg" height=250/></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@its_abhishek/dc1a52ea-4a48-406e-a043-cac31e07c281.svg" height=250/></a>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=its-abhishek&theme=monokai" width=500>
 </p>
 
