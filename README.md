@@ -3,7 +3,7 @@
 # Hey ✋, I am <a href="https://www.linkedin.com/in/abhishek-honnapure-547636232/" target="_blank">Abhishek</a>. Welcome to my Profile✌️
 
 <b>I'm pursuing B.Tech in Computer Science from [PES University, Bangalore](https://www.pes.edu).</b><br>
-I am a self-learner and a blockchain🔗 enthusiast. I'm interested in reaching people🤝 in varies platforms and doing projects👨‍💻 using varies Technology🤖<br>
+I am a self-learner and a blockchain🔗 enthusiast. I'm interested in reaching people🤝 in various platforms and doing projects👨‍💻 using various Technology🤖<br>
 <img align="right" src="https://github.com/its-abhishek/its-abhishek/blob/main/assets/gif2.gif" width="300">
 <hr>
 <br>
