@@ -59,11 +59,11 @@ I am a self-learner and a blockchain🔗 enthusiast. I'm interested in reaching 
  <hr>
  
 <b><h3>📊Coding Stats</h3>
-
+<a href = "https://abhishek-honnapure.vercel.app/"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=its-abhishek&bg_color=150220&hide_border=true&point=false&line=1D3DEDFF&radius=8&area=true&area_color=1D3DEDFF&title_color=ffffff&color=ffffff"></a>
 <b><h4>📉Github Stats</h4>
 <p align = "center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-abhishek&langs_count=6&layout=compact&theme=monokai" />
-<img width="55.79%" src="https://github-readme-stats.vercel.app/api?username=its-abhishek&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=monokai"/>
+<img width="55.79%" height=200 src="https://github-readme-stats.vercel.app/api?username=its-abhishek&include_all_commits=true&hide_border=true&count_private=true&show_icons=true&line_height=20&bg_color=150220"/>&nbsp&nbsp
+<img width="40%" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=its-abhishek&langs_count=6&layout=compact&bg_color=150220&hide_border=true" />
 </p>
 
  <b><h4>📈wakatime status</h4>
@@ -72,8 +72,8 @@ Coding since Jun 2022 :  &nbsp
 <img src="https://wakatime.com/badge/user/efced8e0-2919-4ae4-97b0-d12a51f8068a.svg">
  </p>
 <p>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@its_abhishek/ea9db6a0-2b37-4e53-a879-c25ee727515d.svg" height=250/></a> 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=its-abhishek&theme=monokai" width=500>
+&nbsp&nbsp&nbsp<img src="https://github-readme-streak-stats.herokuapp.com?user=its-abhishek&hide_border=true&background=150220&ring=8AEB67&fire=EBE63F&sideNums=1D3DED&currStreakNum=1D3DED&dates=808080&currStreakLabel=ED681C&sideLabels=808080" width="55.79%">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@its_abhishek/1967f6df-7dbe-4579-8f1c-f483ffaa00eb.svg" height=218 width="37%" /></a> 
 </p>
 
 <hr>
