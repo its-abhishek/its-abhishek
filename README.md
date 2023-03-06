@@ -72,7 +72,7 @@ Coding since Jun 2022 :  &nbsp
 <img src="https://wakatime.com/badge/user/efced8e0-2919-4ae4-97b0-d12a51f8068a.svg">
  </p>
 <p>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@its_abhishek/dc1a52ea-4a48-406e-a043-cac31e07c281.svg" height=250/></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@its_abhishek/ea9db6a0-2b37-4e53-a879-c25ee727515d.svg" height=250/></a> 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=its-abhishek&theme=monokai" width=500>
 </p>
 
