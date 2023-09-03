@@ -3,7 +3,7 @@
 # Hey ✋, I am <a href="https://www.linkedin.com/in/abhishek-honnapure-547636232/" target="_blank">Abhishek</a>. Welcome to my <a href="https://abhishek-honnapure.vercel.app/" target="_blank">Profile</a>✌️
 
 <b>I'm pursuing B.Tech in Computer Science from [PES University, Bangalore](https://www.pes.edu).</b><br>
-I am a self-learner and a blockchain🔗 enthusiast. I'm interested in reaching people🤝 in various platforms and doing projects👨‍💻 using various Technology🤖<br>
+I am a self-learner and a blockchain🔗 enthusiast. I'm interested in reaching people🤝 on various platforms and doing projects👨‍💻 using various Technologies 🤖<br>
 <img align="right" src="https://github.com/its-abhishek/its-abhishek/blob/main/assets/gif2.gif" width="300">
 <hr>
 <br>
@@ -13,14 +13,14 @@ I am a self-learner and a blockchain🔗 enthusiast. I'm interested in reaching 
 - 👀 I’m interested in Coding<br>
 - 🌱 I’m currently learning Js<br>
 - 💞️ I’m looking to collaborate on projects<br>
-- 💫 In my free time I solve problem from HackerRank and read tech article<br><br>
+- 💫 In my free time I solve problems from HackerRank and read tech articles <br><br>
 
 <br>
 <h3>## ⬇️ Contact me</h3>
 <hr>
-<h5>For any further discussion email me <a href = "mailto:abhihonnapure@gmail.com">here</a> for official discussions or connect me on social media clicking on these icons.<h5>
+<h5>For any further discussion email me <a href = "mailto:abhihonnapure@gmail.com">here</a> for official discussions or connect with me on social media by clicking on these icons.<h5>
 <p align = "center">
- <a href = "https://www.instagram.com/_its__abhi__7/"><img src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+ <a href = "https://www.instagram.com/abhishek_honnapure/"><img src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
  <a href = "https://twitter.com/honnapure"><img src = "https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" 
 /></a>
  <a href = "https://t.me/Honnpure"><img src = "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
@@ -96,7 +96,7 @@ I am a self-learner and a blockchain🔗 enthusiast. I'm interested in reaching 
 
  <b><h4>📈wakatime status</h4>
 <p align="center">
-Coding since Jun 2022 :  &nbsp
+Coding since Jun 2022:  &nbsp
 <img src="https://wakatime.com/badge/user/efced8e0-2919-4ae4-97b0-d12a51f8068a.svg">
  </p>
 <p>
