@@ -87,7 +87,7 @@ I am a self-learner and a blockchain🔗 enthusiast. I'm interested in reaching 
  <hr>
  
 <b><h3>📊Coding Stats</h3>
-<a href = "https://abhishek-honnapure.vercel.app/"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=its-abhishek&bg_color=150220&hide_border=true&point=false&line=1D3DEDFF&radius=8&area=true&area_color=1D3DEDFF&title_color=ffffff&color=ffffff"></a>
+<a href = "https://abhishek-honnapure.vercel.app/"><img src="https://github-readme-activity-graph.vercel.app/graph?username=its-abhishek&theme=tokyo-night&bg_color=150220&hide_border=true&point=false&line=1D3DEDFF&radius=8&area=true&area_color=1D3DEDFF&title_color=ffffff&color=ffffff"></a>
 <b><h4>📉Github Stats</h4>
 <p align = "center">
 <img width="55.79%" height=200 src="https://github-readme-stats.vercel.app/api?username=its-abhishek&include_all_commits=true&hide_border=true&count_private=true&show_icons=true&line_height=20&bg_color=150220"/>&nbsp&nbsp
