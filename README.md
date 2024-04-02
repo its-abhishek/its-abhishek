@@ -1,6 +1,6 @@
 <img src="https://github.com/its-abhishek/its-abhishek/blob/8a2e502f56b72ad1af15ff553de6dc6c78dd9f13/assets/Abhishek%20Honnapure.jpg">
 
-# Hello 👋, I am <a href="https://www.linkedin.com/in/abhishek-honnapure-547636232/" target="_blank">Abhishek</a>. Welcome to my <a href="https://abhishek-honnapure.vercel.app/" target="_blank">Profile</a>✌️
+# Hey 👋, I am <a href="https://www.linkedin.com/in/abhishek-honnapure-547636232/" target="_blank">Abhishek</a>. Welcome to my <a href="https://abhishek-honnapure.vercel.app/" target="_blank">Profile</a>✌️
 
 <b>I'm pursuing B.Tech in Computer Science from [PES University, Bangalore](https://www.pes.edu).</b><br>
 I am a self-learner and a blockchain🔗 enthusiast. I'm interested in reaching people🤝 on various platforms and doing projects👨‍💻 using various Technologies 🤖<br>
