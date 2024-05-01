@@ -82,7 +82,7 @@ I am a self-learner and a blockchain🔗 enthusiast. I'm interested in reaching 
 <hr>
  
  <h3>🏆Trophies</h3><br>
- <img width=900 src="https://github-profile-trophy.vercel.app/?username=its-abhishek&column=7&theme=monokai&no-frame=true"/>
+ <img width=100% src="https://github-profile-trophy.vercel.app/?username=its-abhishek&column=9&theme=monokai&no-frame=true"/>
 
  <h3>⭐Badges</h3><br>
  <img width=900 src="https://holopin.me/itsabhishek"/>
