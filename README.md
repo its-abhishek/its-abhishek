@@ -110,11 +110,16 @@ I am a self-learner and a blockchain🔗 enthusiast. I'm interested in reaching 
  <b><h4>📈wakatime status</h4>
 <p align="center">
 Coding since Jun 2022:  &nbsp
-<img src="https://wakatime.com/badge/user/efced8e0-2919-4ae4-97b0-d12a51f8068a.svg">
+<a href="https://wakatime.com/@its_abhishek" target="_blank">
+  <img src="https://wakatime.com/badge/user/efced8e0-2919-4ae4-97b0-d12a51f8068a.svg">
+</a>
  </p>
 <p>
 &nbsp&nbsp&nbsp<img src="https://github-readme-streak-stats.herokuapp.com?user=its-abhishek&hide_border=true&background=150220&ring=8AEB67&fire=EBE63F&sideNums=1D3DED&currStreakNum=1D3DED&dates=808080&currStreakLabel=ED681C&sideLabels=808080" width="55.79%">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@its_abhishek/1967f6df-7dbe-4579-8f1c-f483ffaa00eb.svg" height=218 width="37%" /></a> 
+<a href="https://wakatime.com/@its_abhishek" target="_blank">
+    <img src="https://wakatime.com/share/@its_abhishek/1967f6df-7dbe-4579-8f1c-f483ffaa00eb.svg" height="218" width="37%" />
+</a>
+ 
 </p>
 
 <hr>
