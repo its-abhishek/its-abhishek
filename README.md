@@ -11,14 +11,14 @@ I am a self-learner and a blockchain🔗 enthusiast. I'm interested in reaching 
 <h3>## About me</h3>
 
 - 👀 I’m interested in Coding<br>
-- 🌱 I’m currently learning Js<br>
+- 🌱 I’m currently working in Udaan as an SDE-1 Intern<br>
 - 💞️ I’m looking to collaborate on projects<br>
-- 💫 In my free time I solve problems from HackerRank and read tech articles <br><br>
+- 💫 In my free time, I solve problems from HackerRank and read tech articles <br><br>
 
 <br>
 <h3>## ⬇️ Contact me</h3>
 <hr>
-<h5>For any further discussion email me <a href = "mailto:abhihonnapure@gmail.com">here</a> for official discussions or connect with me on social media by clicking on these icons.<h5>
+<h5>For any further discussion, email me <a href = "mailto:abhihonnapure@gmail.com">here</a> for official discussions or connect with me on social media by clicking on these icons.<h5>
 <p align = "center">
  <a href = "https://www.instagram.com/abhishek_honnapure/"><img src = "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
  <a href = "https://twitter.com/honnapure"><img src = "https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" 
